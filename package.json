@@ -1,8 +1,10 @@
 {
-  "name": "real-estate-api",
+  "name": "real-estate-hub-data-api",
   "version": "1.0.0",
+  "description": "Fake REST API for real estate hub",
+  "main": "index.js",
   "scripts": {
-    "start": "json-server db.json --port $PORT"
+    "start": "json-server --watch db.json --host 0.0.0.0 --port $PORT"
   },
   "dependencies": {
     "json-server": "^0.17.4"
