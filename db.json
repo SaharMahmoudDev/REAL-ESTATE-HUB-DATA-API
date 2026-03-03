@@ -21,7 +21,7 @@
         "pool"
       ],
       "images": [
-        "./public/images/photo-apartment13.avif",
+        "/images/photo-apartment3.avif",
         "https://picsum.photos/seed/prop1-2/800/500",
         "https://picsum.photos/seed/prop1-3/800/500"
       ],
